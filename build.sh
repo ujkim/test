@@ -2,16 +2,16 @@
 
 touch aa
 chmod 777 aa
-cp aa bin/
+mv aa bin/
 
 touch bb
 chmod 777 bb
-cp bb bin/
+mv bb bin/
 
 touch cc
 chmod 777 cc
 chmod 777 cc
-cp cc bin/
+mv cc bin/
 
 echo "TEST"
 echo "START"
